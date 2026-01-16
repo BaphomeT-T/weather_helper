@@ -1,6 +1,12 @@
 # weather_helper
 
-A new Flutter project.
+Aplicación Flutter que permite buscar el clima actual de una ciudad usando la API pública de Open-Meteo (sin API key). Muestra temperatura, velocidad del viento, código/estado del tiempo y una descripción amigable.
+
+## Características
+- Búsqueda por nombre de ciudad (geocoding para obtener coordenadas).
+- Consulta de clima actual en tiempo real.
+- UI con tarjeta de resultados y mensajes de error claros.
+- Funciona en móviles, web y escritorio (según objetivos de Flutter).
 
 ## Getting Started
 
